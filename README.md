@@ -10,7 +10,7 @@ This application displays a new random quote, upon the click of a button.
 
 # Some Snaps from the app
 
-<img width="928" alt="qgss1" src<img width="586" alt="qgss2" src="https://user-images.githubusercontent.com/104501858/187385700-b60dd5b2-ee74-4562-8660-f0dfe713f022.png">
+<img width="928" alt="qgss1" src="https://user-images.githubusercontent.com/104501858/187385930-73f5ef13-b13f-46a8-910b-c07ee5e750d9.png">
 
 
 
